@@ -1,0 +1,16 @@
+body {
+  background:linear-gradient(#f6c439, #fbfd65) ;
+}
+
+.social{
+}
+
+.social img{
+  height: 100px;
+  width: 100px;
+  /* background-attachment: fixed; */
+  /* background-repeat: no-repeat; */
+  border-radius:  100px;
+  /* border-style: hidden; */
+  background: linear-gradient(#f3a7a7,  #ffbf75);
+}
