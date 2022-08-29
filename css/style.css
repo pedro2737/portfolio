@@ -1,8 +1,18 @@
 body {
   background:linear-gradient(#f6c439, #fbfd65) ;
+  /* text-align: center; */
+}
+
+.name {
+  background: linear-gradient(#dfdfdf, #5a5a5a);
+  text-align: center;
+  border: outset  5px #ff0000;
+  /* outset cria um corte na borda */
+  border-radius: 5px;
 }
 
 .social{
+  text-align: center;
 }
 
 .social img{
@@ -10,7 +20,17 @@ body {
   width: 100px;
   /* background-attachment: fixed; */
   /* background-repeat: no-repeat; */
-  border-radius:  100px;
+  border-radius:  50%;
   /* border-style: hidden; */
-  background: linear-gradient(#f3a7a7,  #ffbf75);
+  /* background: linear-gradient(#f3a7a7,  #ffbf75); */
+  background: linear-gradient(#ffffff,  #b1b1b1);
+}
+
+.knowledge{
+  text-align: center;
+}
+
+.knowledge img{
+  width: 150px;
+  height: 150px;
 }
